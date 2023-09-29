@@ -45,13 +45,13 @@ const Contact = () => {
             href="https://github.com/tornikegogilashvili" 
             target="blank"
           >
-              <Social src={Github} alt="Cau's Github" />
+              <Social src={Github} alt="toko's Github" />
           </a>
           <a
-            href="www.linkedin.com/in/tornike-gogilashvili"
+            href="https://www.linkedin.com/in/tornike-gogilashvili/"
             target="blank"
           >
-            <Social src={Linkedin} alt="Cau's Linkedin" />
+            <Social src={Linkedin} alt="toko's Linkedin" />
           </a>
         </Center>
       </Info>

@@ -34,9 +34,9 @@ const Splash = () => {
 
   useEffect(() => {
     const typed = new Typed(name.current, {
-      strings: ["cau. "],
-      startDelay: 600,
-      typeSpeed: 140,
+      strings: ["Tornike Gogilashvili. "],
+      startDelay: 50,
+      typeSpeed: 40,
     });
 
     return () => {
@@ -50,7 +50,7 @@ const Splash = () => {
   useEffect(() => {
     const timer = setTimeout(() => {
       setShow(false);
-    }, 2000);
+    }, 3000);
 
     return () => clearTimeout(timer);
   }, []);
