@@ -78,7 +78,7 @@ const Home = () => {
     <Background>
       <Container>
         <Header>
-          <H1>Cau Ugolini</H1>
+          <H1>Tornike Gogilashvili</H1>
           <Flex>
             <pre ref={webD}></pre>
           </Flex>

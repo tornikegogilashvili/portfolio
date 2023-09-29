@@ -6,7 +6,7 @@ import Linkedin from "../assets/linkedin.svg";
 
 
 const Info = styled.div`
-  width: 12rem;
+  width: 19rem;
   color: #c3c3c3;
   margin: 1.6rem;
   position: absolute;
@@ -35,23 +35,20 @@ const Contact = () => {
   return (
     <>
       <Info>
-        <p>What's next?</p>
-        <h1>Get In 
-          <a 
-            href="mailto: cau.ugolini@gmail.com"
-            style={{ color: "white", paddingLeft: "14px" }}
-          >Touch
-          </a>
-        </h1>
+        <p>
+          
+          Email: tornikegogilashvili@yahoo.com
+          
+        </p>
         <Center>
           <a 
-            href="https://github.com/caumaria" 
+            href="https://github.com/tornikegogilashvili" 
             target="blank"
           >
               <Social src={Github} alt="Cau's Github" />
           </a>
           <a
-            href="https://www.linkedin.com/in/cau-ugolini-923a4a185/"
+            href="www.linkedin.com/in/tornike-gogilashvili"
             target="blank"
           >
             <Social src={Linkedin} alt="Cau's Linkedin" />

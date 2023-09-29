@@ -24,7 +24,7 @@ export const ContainerSlideIn = styled(motion.div)`
 `;
 
 const StyledProject = styled.div`
-  width: 20rem;
+  width: 30rem;
   color: rgb(195, 195, 195);
   margin: 1.6rem;
 `;

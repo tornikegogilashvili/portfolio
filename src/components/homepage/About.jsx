@@ -28,23 +28,15 @@ const About = () => {
       variants={fadeIn("left", "tween", 1.4, 1)}
       >
           <p>
-            Self-taught Front-end Developer Jr.
-            <br></br>
-            <br></br>
-            Primary Techs: Javascript, ReactJs, CSS, Styled Components, SASS, HTML. Currently studying Typescript and Node.
+            
+            Techs: Javascript, ReactJs, CSS,  SASS, HTML, Figma, Agile, typescript, Git, Rest API, Vue.js, 
           </p>
           <br></br>
           <p>
-            I'm searching for a junior level position where I can utilize my skills to create amazing product with cool design & user experience.
-            <br></br>
-            <br></br>
-            My motivators are curiosity, delight, and the desire to achieve something remarkable. 
-            <br></br>
-            <br></br>
-            My goal is to create exceptional web experiences.
-            <br></br>
-            <br></br>
-            Let's work together to make a lasting impact.
+            
+            I don't finish my studies because I still have a lot to learn. Every day I try to learn something new and be better than the day before. I am currently working in a company that has created an application based on artificial intelligence.  success in the comfort zone is incredible, so I need a new challenge to get out of my comfort zone and create the best version of myself.
+            I will be glad if you give me an opportunity to present my professional and also personal skills at the interview
+
           </p>
         </ContainerSlideIn>
     </AboutDiv>
