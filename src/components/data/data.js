@@ -19,10 +19,10 @@ export const projects = [
     web: 'https://ecommerce-tg.netlify.app/'
   },
     {
-      name: "fetch API users",
-      projects: "I get information about users from the backend database and display it in the browser. ",
-      url: 'https://github.com/tornikegogilashvili/fetchUsers',
-      web: 'https://fetch-apidata.netlify.app/users'
+      name: "X-O Game",
+      projects: "This game is written in javascript",
+      url: 'https://github.com/tornikegogilashvili/X-O-game',
+      web: 'https://tornikegogilashvili.github.io/X-O-game/'
     },
     {
       name: "CV builder",
