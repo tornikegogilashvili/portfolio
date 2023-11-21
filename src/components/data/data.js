@@ -36,11 +36,11 @@ export const projects = [
       url: "https://github.com/tornikegogilashvili/vue-amazon",
       web: "https://vue-amazon.netlify.app/#/"
     },
-    {
-      name: "Car-wash",
-      projects: "Car washing and repairing service",
-      url: "https://github.com/tornikegogilashvili/car-wash",
-      web: "https://tornikegogilashvili.github.io/car-wash/index.html"
-    },
+    //{
+      //name: "Car-wash",
+      //projects: "Car washing and repairing service",
+      //url: "https://github.com/tornikegogilashvili/car-wash",
+      //web: "https://tornikegogilashvili.github.io/car-wash/index.html"
+    //},
     
 ];
