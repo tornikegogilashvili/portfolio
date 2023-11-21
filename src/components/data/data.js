@@ -13,7 +13,7 @@ export const projects = [
     web: 'https://statisticreact.netlify.app/'
   },
   {
-    name: "eCommerce Website",
+    name: "eCommerce React.js",
     projects: "Get information from MongoDB database and display it on Web with react. Every visitor can register and login ",
     url: 'https://github.com/tornikegogilashvili/eCommerce',
     web: 'https://ecommerce-tg.netlify.app/'
@@ -29,6 +29,12 @@ export const projects = [
       projects: "CV maker app. saves information on local storage and shows it already filled information on the final page. ",
       url: "https://github.com/tornikegogilashvili/CV-resume",
       web: "https://cv-buildercv.netlify.app/"
+    },
+    {
+      name: "eCommerce Vue.js",
+      projects: "get info from REST API and display. also change language and add cart function",
+      url: "https://github.com/tornikegogilashvili/vue-amazon",
+      web: "https://vue-amazon.netlify.app/#/"
     },
     {
       name: "Car-wash",
